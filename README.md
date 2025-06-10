@@ -23,7 +23,4 @@ Training regression models (Linear Regression, Decision Trees, Random Forest, XG
 
 Evaluating model performance using metrics like RMSE, MAE, and R² Score.
 
-Real-time AQI Forecasting (Optional)
-
-Integrating APIs (e.g., OpenAQ, government datasets) for live data prediction.
 
